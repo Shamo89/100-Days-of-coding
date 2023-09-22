@@ -1,0 +1,8 @@
+print("Hola! Bienvenido a Nombra tu banda!")
+#2. Ask the user for the city that they grew up in.
+animal = input ("Cual es tu animal favorito?\n")
+#3. Ask the user for the name of a pet.
+color = input ("Cual es tu color favorito?\n")
+#4. Combine the name of their city and pet and show them their band name.
+banda = animal + " " + color 
+print("El nombre de tu banda puede ser" + " " + banda)
